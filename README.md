@@ -52,12 +52,12 @@ or from **Download Zip**
 ## Demo
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/V3qgIQrhHBY/1.jpg"/><br />
+  <img height="500" src="https://raw.githubusercontent.com/JadavChirag/flutter-tabbar-interaction/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-07-18%20at%2017.40.49.png"/><br />
   <b>Shifting Tab</b>
 </p>
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/V3qgIQrhHBY/2.jpg" /><br />
+  <img   height="500" src="https://raw.githubusercontent.com/JadavChirag/flutter-tabbar-interaction/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-07-18%20at%2017.50.08.png" /><br />
   <b>Full Tab</b>
 </p>
 

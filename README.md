@@ -61,7 +61,7 @@ or from **Download Zip**
   <b>Full Tab</b>
 </p>
 
-[![asciicast](https://i.ytimg.com/vi/KJV2jJjnWpU/1.jpg)](https://youtu.be/V3qgIQrhHBY)
+[![asciicast](https://raw.githubusercontent.com/JadavChirag/flutter-tabbar-interaction/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-07-18%20at%2017.50.08.png)](https://youtu.be/V3qgIQrhHBY)
 
 
 ## Component props
